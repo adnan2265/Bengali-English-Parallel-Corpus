@@ -2,6 +2,7 @@
 2,408 sentence pairs
 
 Size: 2,408 Bengali-English sentence pairs
+
 Format: txt
 
 
